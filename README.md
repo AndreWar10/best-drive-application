@@ -4,7 +4,7 @@
 
 Projeto funcional e aplicado na concessionária Francauto Volkswagen:
   
-  A conccesssionária tinhaa um problema para gerenciar a entrada e saída de veículo para test-drive com cliente, uma vez que o gerenciamento era feito em uma lista com papel e caneta 
+  A concessionária tinhaa um problema para gerenciar a entrada e saída de veículo para test-drive com cliente, uma vez que o gerenciamento era feito em uma lista com papel e caneta 
 
 Pensando nisso, desenvolvi uma simples e eficiente aplicação em VBA, no Excel, que é capaz de gerenciar os carros que estão disponíveis para test-drive e os que estão ocupados, no qual todos vendedores tem acesso ao mesmo tempo em seu computador pessoal.
   
